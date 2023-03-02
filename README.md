@@ -1,4 +1,4 @@
-# Desafío Consume de APIs - Prueba - Desafío Latam
+# Desafío React Router - Prueba - Desafío Latam
 The meaning of this challenge is to validate our knowledge of React Router.
 
 - Site of deploy: https://luxury-cendol-620fd7.netlify.app
